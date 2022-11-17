@@ -17,12 +17,12 @@
         
         <p>As empresas parceiras da marca Apple possuem técnicos treinados Apple e são reconhecida pela empresa de Cupertino, os valores das peças e serviços de manutenção são tabelados e iguais em todas as Assistências Técnicas Autorizadas APPLE, este tabelamento recebe o nome de “Padrão APPLE”..</p>
 
-        <p id="missao"><em>Nossa missão é: <strong>"Proporcionar auto-estima e qualidade de vida aos clientes"</strong>.</em></p>
-
         <p>Quanto aos valores dos serviços é necessário que o cliente esteja atento as necessidades do aparelho e assistência desejada, os serviços de manutenção costumam ter valores menores em Assistências Técnicas Especializadas APPLE,</p>
         
         <p>Enquanto em uma Assistência Técnica Autorizadas APPLE os valores são mais altos, uma vez que o problema é constatado pelo próprio cliente e não é necessário fazer uma vistoria no aparelho,</p>
         
         <p>O celular ou tablete deve ser levado até uma Assistência Técnica Especializada no tipo de aparelho e conserto, desta maneira o valor do serviço é reduzido.</p>
+
+        <p id="missao"><em>Nossa missão é: <strong>"Proporcionar auto-estima e qualidade de vida aos clientes"</strong>.</em></p>
     </body>
 </html>
