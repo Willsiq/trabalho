@@ -3,17 +3,17 @@ body {
 }
 
 #banner1 {
-    width: 30%; 
+    width: 40%; 
     text-align: right;
 }
 
 #banner2 {
-    width: 30%; 
+    width: 40%; 
     text-align: right;
 }
 
 #banner3 {
-    width: 30%; 
+    width: 40%; 
     text-align: right;
 }
 
@@ -31,4 +31,9 @@ p {
 
 em strong {
     color: #FF0000;
+}
+
+#apple {
+   color: rgb(158, 108, 15);
+   text-align: right;
 }
